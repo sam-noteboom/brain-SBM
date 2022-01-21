@@ -1,5 +1,5 @@
 # Brain source based morphometry pipeline
-This repository Source-based morphometry pipeline for structural brain MRI 
+Determine voxel-wise source-based morphometry patterns from lesion-filled 3D-T1 images.  
 
 ## Overview
 
