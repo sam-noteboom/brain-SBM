@@ -1,6 +1,8 @@
 # Brain source based morphometry pipeline
 Determine voxel-wise source-based morphometry patterns from lesion-filled 3D-T1 images.  
 
+![Alt text](images/SBM_methods.png?raw=true "Title")
+
 ## Overview
 
 Step | Script
