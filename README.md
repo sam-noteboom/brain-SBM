@@ -7,6 +7,7 @@ Determine voxel-wise source-based morphometry patterns from lesion-filled 3D-T1 
 
 Step | Script
 ------------- | -------------
+Define paths to FSL/ANTs and data | [config.cfg](config.cfg)
 Run FSL SIENAx | [1_sienax.sh](1_sienax.sh)
 Create initial template in MNI space  | [2_initialtemplate.sh](2_initialtemplate.sh)
 Create non-linear group template |  [3_grouptemplate.sh](3_grouptemplate.sh)
