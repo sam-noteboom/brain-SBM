@@ -14,3 +14,6 @@ Create non-linear group template |  [3_grouptemplate.sh](3_grouptemplate.sh)
 Warp images and pve maps to group template |  [4_warp2template.sh](4_warp2template.sh)
 Run FSL Melodic | [5_melodic.sh](5_melodic.sh)
 
+## Dependencies
+* FSL https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
+* ANTs http://stnava.github.io/ANTs/
